@@ -5,8 +5,6 @@ def enrich_lead(title, company):
 
     title = str(title).lower()
 
-    # Varsayılan değerler
-
     sector = "Technology"
     company_size = "50-200"
 
@@ -14,35 +12,25 @@ def enrich_lead(title, company):
     pain_point = "Employee development"
     outreach_angle = "Corporate English improvement"
 
-    # Talent Acquisition
-
     if "talent" in title or "recruitment" in title:
         english_need_score = 9
         pain_point = "Finding qualified candidates"
         outreach_angle = "English assessment for hiring"
-
-    # HR Manager
 
     elif "hr manager" in title:
         english_need_score = 8
         pain_point = "Managing employee development"
         outreach_angle = "Workplace communication skills"
 
-    # HR Director
-
     elif "director" in title:
         english_need_score = 9
         pain_point = "International workforce management"
         outreach_angle = "Global communication training"
 
-    # HRBP
-
     elif "business partner" in title:
         english_need_score = 8
         pain_point = "Supporting business growth"
         outreach_angle = "Cross-functional communication"
-
-    # Learning & Development
 
     elif "learning" in title:
         english_need_score = 7
@@ -57,8 +45,6 @@ def enrich_lead(title, company):
         "outreach_angle": outreach_angle
     }
 
-
-# CSV oku
 
 df = pd.read_csv("data/raw_leads.csv")
 
