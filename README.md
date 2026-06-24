@@ -187,3 +187,43 @@ Konuşarak Öğren'in bu konuda sağladığı bazı sonuçları paylaşmak ister
 This project demonstrates how AI and automation can be combined to build a scalable outbound growth system.
 
 The focus is not only on generating leads but on creating a repeatable workflow that improves personalization, prioritization, and execution efficiency.
+
+## AI Strategy
+
+To keep the prototype lightweight and cost-efficient, a rule-based enrichment engine was implemented instead of using a paid LLM API.
+
+The enrichment layer simulates AI reasoning by analyzing job titles and assigning:
+
+* Estimated English training demand
+* Potential HR pain points
+* Outreach angles
+* Lead qualification signals
+
+This approach allows rapid prototyping while keeping the architecture fully compatible with future LLM integration.
+
+The enrichment module can be replaced with:
+
+* OpenAI GPT
+* Claude
+* Gemini
+* Local LLMs
+
+without changing downstream components such as lead scoring, CRM updates, or outreach generation.
+
+## Lead Qualification Logic
+
+The lead scoring system prioritizes prospects based on three factors:
+
+1. Estimated English learning demand
+2. Job title authority
+3. Company size
+
+Scoring helps identify the highest-value prospects before outreach.
+
+Example:
+
+* HR Director → Higher priority
+* HR Manager → Medium-high priority
+* Recruitment Specialist → Medium priority
+
+This allows outreach efforts to focus on leads with the highest potential impact.
