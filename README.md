@@ -4,295 +4,356 @@
 
 This project demonstrates a lightweight AI-powered outbound growth system designed for Konuşarak Öğren.
 
-The goal is to identify HR professionals in Turkey, enrich lead information using AI, generate personalized outreach messages, and manage the outreach process through an automated workflow.
+The objective is to identify HR professionals, enrich lead information, prioritize prospects, generate personalized outreach messages, and organize outreach activities through an automated workflow.
 
-Instead of focusing only on lead collection, the project aims to show an end-to-end growth automation mindset including:
+The project focuses on building a complete outbound prospecting pipeline rather than only collecting leads.
 
-* Lead discovery
-* Data enrichment
-* AI-powered personalization
-* Lead scoring
-* CRM organization
-* Workflow automation
+Core capabilities:
+
+* Lead Discovery
+* AI-Based Lead Enrichment
+* Lead Scoring
+* Personalized Outreach Generation
+* Multi-Step Outreach Sequences
+* CRM-Ready Data Export
+* Account-Based Prospecting
 
 ---
 
-## Problem Statement
+# Problem Statement
 
-Konuşarak Öğren wants to reach Human Resources professionals in Turkey through LinkedIn and email outreach.
+Konuşarak Öğren aims to reach Human Resources professionals through LinkedIn and email outreach.
 
-The main challenges are:
+The main challenges include:
 
-* Finding relevant decision makers
+* Finding relevant HR decision-makers
 * Understanding company context
+* Prioritizing high-value opportunities
 * Personalizing outreach at scale
-* Prioritizing high-value leads
-* Managing outreach efficiently
+* Managing outbound processes efficiently
 
-This project provides a minimum viable solution for these challenges.
-
----
-
-## Solution Architecture
-
-Lead Source → Data Cleaning → AI Enrichment → Lead Scoring → Personalized Outreach → CRM
-
-The workflow collects HR professionals, enriches lead data using AI, generates personalized messages, and stores the results in a CRM-ready format.
+This project provides a minimum viable AI-powered solution for these challenges.
 
 ---
 
-## Tech Stack
+# Solution Architecture
+
+Lead Collection
+↓
+AI Enrichment
+↓
+Lead Scoring
+↓
+Outreach Generation
+↓
+Multi-Step Outreach Sequence
+↓
+CRM Export
+
+---
+
+# Tech Stack
 
 * Python
-* OpenAI API
-* Google Sheets
-* n8n
-* Apollo.io
 * Pandas
+* CSV-based CRM
+* Rule-Based AI Enrichment Engine
+
+Future-ready integrations:
+
+* OpenAI GPT
+* Claude
+* Gemini
+* Local LLMs
+* HubSpot
+* n8n
+* Apollo
 
 ---
 
-## Workflow
+# Project Structure
 
-### Step 1: Lead Collection
+```text
+growth-ops-ai-system/
 
-HR professionals are collected from Apollo using filters such as:
+├── data/
+│   ├── raw_leads.csv
+│   ├── ai_ops_output.csv
+│   ├── outreach_sequence_output.csv
+│   ├── outreach_messages.csv
+│   └── outreach_preview.txt
+│
+├── src/
+│   ├── ai_ops_workflow.py
+│   ├── outreach_sequence.py
+│   └── outreach_generator.py
+│
+├── main.py
+└── README.md
+```
 
-* HR Manager
-* HR Director
-* Talent Acquisition Manager
-* HR Business Partner
-* Learning & Development Manager
+---
 
-Collected fields:
+# Workflow
 
-* Full Name
+## Step 1 — Lead Collection
+
+HR professionals were manually researched and collected from LinkedIn.
+
+Collected attributes:
+
+* Name
 * Company
 * Job Title
 * LinkedIn URL
-* Email (if available)
 
-Target dataset size: 100 leads
+Dataset includes:
 
-### Step 2: Lead Enrichment
+* HR Directors
+* HR Managers
+* HR Business Partners
+* Talent Acquisition Specialists
+* Recruitment Specialists
+* Learning & Development Professionals
 
-Each lead is processed through an AI enrichment workflow.
+Current dataset:
 
-The AI estimates:
+* 30+ enriched HR professionals
 
-* Company industry
+---
+
+## Step 2 — AI Enrichment
+
+The enrichment engine analyzes each lead and generates additional context.
+
+Generated fields:
+
+* Sector
+* Company Size
+* English Need Score
+* Pain Point
+* Outreach Angle
+
+Example:
+
+Input:
+
+Role:
+Senior HR Business Partner
+
+Output:
+
+* English Need Score: 10
+* Pain Point: Scaling recruitment and employee development
+* Outreach Angle: English communication and talent development programs
+
+---
+
+## Step 3 — Lead Scoring
+
+Leads are prioritized according to:
+
+* Job seniority
 * Company size
-* English training need score
-* Potential HR challenges
-* Outreach angle
+* Strategic HR responsibility
+* International exposure
+* Recruitment responsibility
 
-This creates additional context for personalized communication.
+Output:
 
-### Step 3: Lead Scoring
+* A+ Lead
+* A Lead
+* B Lead
 
-Leads are scored based on:
+Examples:
 
-* Company size
-* Decision-making authority
-* Estimated English learning demand
+* HR Director → A+
+* Senior HR Business Partner → A+
+* HR Manager → A
+* Recruitment Specialist → A/B
 
-This helps prioritize outreach efforts.
+---
 
-### Step 4: Personalized Outreach
+## Step 4 — Personalized Outreach Generation
 
-AI generates customized LinkedIn messages or cold emails based on:
+The system automatically generates personalized LinkedIn outreach messages.
+
+Inputs:
 
 * Role
-* Company context
-* Estimated pain points
-* Outreach angle
+* Company
+* Pain Point
+* Outreach Angle
+* Lead Tier
 
-The goal is to avoid generic outreach and improve response rates.
+Output:
 
-### Step 5: CRM Management
+Customized outreach message for each lead.
 
-Processed leads are stored inside Google Sheets.
+Example:
 
-Pipeline stages:
+Merhaba İlker,
 
-* New
-* Contacted
-* Replied
-* Meeting Scheduled
-* Won
-* Lost
+Profilinizi incelerken stratejik HR, çalışan gelişimi ve organizasyonel dönüşüm tarafındaki odağınız dikkatimi çekti.
 
-### Step 6: Automation
+Etstur tarafındaki Senior HR Business Partner rolünüz kapsamında özellikle recruitment ve employee experience süreçlerinin önemli bir gündem olabileceğini düşündüm.
 
-An n8n workflow automates:
+Konuşarak Öğren olarak bu alanlarda kurumlara destek oluyoruz.
 
-1. Lead intake
-2. AI enrichment
-3. Lead scoring
-4. Message generation
-5. CRM updates
-
-This reduces manual work and improves scalability.
+Uygun olursa kısa bir fikir paylaşmak isterim.
 
 ---
 
-## Sample Output
+## Step 5 — Multi-Step Outreach Sequence
 
-Example Lead:
+The project generates a complete outbound sequence.
 
-Name: Ayşe Yılmaz
+Sequence:
 
-Company: ABC Teknoloji
+Day 0:
+Connection Request
 
-Role: HR Manager
+Day 3:
+First Outreach Message
 
-AI Output:
+Day 7:
+Value-Based Follow-Up
 
-Industry: SaaS
+Day 14:
+Final Follow-Up
 
-Company Size: 50-200
-
-Pain Point:
-Scaling recruitment while maintaining employee development.
-
-Outreach Angle:
-Improve spoken English skills for international communication and hiring.
-
-Generated Message:
-
-"Merhaba Ayşe Hanım,
-
-ABC Teknoloji'nin büyüyen ekip yapısını inceledim. Uluslararası iletişim ve işe alım süreçlerinde İngilizce gelişiminin önemli bir rol oynayabileceğini düşündüm.
-
-Konuşarak Öğren'in bu konuda sağladığı bazı sonuçları paylaşmak isterim."
+This simulates a scalable outbound workflow.
 
 ---
 
-## Future Improvements
+## Step 6 — CRM Export
 
-* LinkedIn automation
-* Multi-step outreach sequences
-* AI reply classification
-* Lead intent detection
-* CRM integration (HubSpot)
-* Inbox automation
-* Deliverability monitoring
-* Advanced lead scoring
-* Agent-based prospect research
+The system exports processed leads into CRM-ready CSV files.
+
+Generated outputs:
+
+* ai_ops_output.csv
+* outreach_sequence_output.csv
+* outreach_messages.csv
+
+These files can be imported into:
+
+* HubSpot
+* Airtable
+* Notion
+* Salesforce
+* Google Sheets
 
 ---
 
-## Conclusion
+# Account-Based Prospecting
 
-This project demonstrates how AI and automation can be combined to build a scalable outbound growth system.
+Instead of collecting isolated leads, the system identifies multiple HR stakeholders within the same company.
 
-The focus is not only on generating leads but on creating a repeatable workflow that improves personalization, prioritization, and execution efficiency.
+Examples:
 
-## AI Strategy
+## Eren Perakende
 
-To keep the prototype lightweight and cost-efficient, a rule-based enrichment engine was implemented instead of using a paid LLM API.
+* HR Director
+* Human Resources Director
+* HR Manager
+* Senior Recruitment Specialist
 
-The enrichment layer simulates AI reasoning by analyzing job titles and assigning:
+## Doğuş Otomotiv
 
-* Estimated English training demand
-* Potential HR pain points
-* Outreach angles
-* Lead qualification signals
+* HR Manager
+* HR Assistant Manager
+* Senior HR Specialist
+* HR Specialists
 
-This approach allows rapid prototyping while keeping the architecture fully compatible with future LLM integration.
+## Etstur
 
-The enrichment module can be replaced with:
+* Senior HR Business Partner
+* HR Business Partner
+
+## Kosifler Group
+
+* HR Group Manager
+* HR Manager
+
+This approach enables account-based outbound strategies and increases outreach efficiency.
+
+---
+
+# AI Strategy
+
+To keep the prototype lightweight and cost-efficient, a rule-based AI enrichment engine was implemented.
+
+The enrichment layer simulates AI reasoning by analyzing lead attributes and generating:
+
+* English Need Scores
+* Pain Points
+* Outreach Angles
+* Lead Qualification Signals
+
+The architecture is fully compatible with future LLM integration.
+
+Possible future upgrades:
 
 * OpenAI GPT
 * Claude
 * Gemini
 * Local LLMs
 
-without changing downstream components such as lead scoring, CRM updates, or outreach generation.
+without changing downstream components.
 
-## Lead Qualification Logic
+---
 
-The lead scoring system prioritizes prospects based on three factors:
+# Automation Pipeline
 
-1. Estimated English learning demand
-2. Job title authority
-3. Company size
+The complete workflow can be executed through a single entry point:
 
-Scoring helps identify the highest-value prospects before outreach.
+```bash
+python main.py
+```
 
-Example:
+Pipeline:
 
-* HR Director → Higher priority
-* HR Manager → Medium-high priority
-* Recruitment Specialist → Medium priority
-
-This allows outreach efforts to focus on leads with the highest potential impact.
-
-
-## Automation Workflow (n8n)
-
-The workflow is designed to run automatically whenever a new lead enters the system.
-
-Flow:
-
-Lead Source (Apollo / LinkedIn)
+raw_leads.csv
 ↓
-Google Sheets
+ai_ops_workflow.py
 ↓
-Research Agent
+ai_ops_output.csv
 ↓
-Enrichment Agent
+outreach_sequence.py
 ↓
-Lead Scoring Agent
+outreach_sequence_output.csv
 ↓
-Outreach Agent
+outreach_generator.py
 ↓
-CRM Update
+outreach_messages.csv
 
-Workflow responsibilities:
+---
 
-* Detect new leads
-* Enrich lead information
-* Estimate pain points
-* Score lead quality
-* Generate personalized outreach
-* Update CRM records
+# Future Improvements
 
-This design minimizes manual work while maintaining personalized communication.
+* Automated LinkedIn scraping
+* Apollo integration
+* OpenAI-powered enrichment
+* AI reply classification
+* Intent detection
+* HubSpot integration
+* n8n workflow automation
+* Inbox automation
+* Deliverability monitoring
+* Agent-based prospect research
 
-## Workflow Diagram
+---
 
-┌─────────────────────┐
-│ Lead Sources        │
-│ LinkedIn / Apollo   │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ Google Sheets CRM   │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ Research Agent      │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ Enrichment Agent    │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ Lead Scoring Agent  │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ Outreach Agent      │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ CRM Update Agent    │
-└─────────────────────┘
+# Conclusion
+
+This project demonstrates how growth operations and AI can be combined to build a scalable outbound prospecting system.
+
+The focus is not only on collecting leads but on building a repeatable workflow that:
+
+* Enriches lead data
+* Prioritizes opportunities
+* Personalizes communication
+* Supports CRM workflows
+* Enables scalable outbound growth
+

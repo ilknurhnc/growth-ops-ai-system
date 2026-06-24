@@ -1,46 +1,262 @@
-name,company,title,linkedin,business_context,sector,company_size,english_need_score,pain_point,outreach_angle,role_specific_insight,lead_score,lead_tier,linkedin_message,status,channel,next_action,follow_up_day
-Ayşe Yılmaz,ABC Teknoloji,HR Manager,https://linkedin.com/in/ayseyilmaz,General HR operations,Technology / Software,50-200,7,ekip içi iletişimi ve çalışan gelişimini güçlendirme,ekiplere yönelik pratik İngilizce konuşma eğitimi,"ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor",75,B Lead,"Merhaba Ayşe,
+name,company,title,linkedin,email,sector,company_size,english_need_score,pain_point,outreach_angle,lead_score,lead_tier,status,business_context,role_specific_insight,linkedin_message,channel,next_action,follow_up_day
+Deniz Kayalı Yüzügüllü,Green Transfo SAS,Sr. Human Resources Specialist,https://linkedin.com/in/deniz-kayali-yüzügüllü-45949a1a3,,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Deniz,
 
-ABC Teknoloji tarafındaki HR Manager rolünüz dikkatimi çekti.
+Green Transfo SAS tarafındaki Sr. Human Resources Specialist rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Ayşenur Işıksal,,İnsan Kaynakları | Bordrolama & İK Analitiği,https://linkedin.com/in/ayşenur-işıksal-64006b204,,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Ayşenur,
+
+nan tarafındaki İnsan Kaynakları | Bordrolama & İK Analitiği rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Merve Hasil,Visa,Senior HR Manager Turkey Greece Cyprus Malta,https://linkedin.com/in/merve-hasil-b2229346,,General Business,50-200,7,ekip içi iletişimi ve çalışan gelişimini güçlendirme,ekiplere yönelik pratik İngilizce konuşma eğitimi,75,B Lead,New,General HR operations,"ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor","Merhaba Merve,
+
+Visa tarafındaki Senior HR Manager Turkey Greece Cyprus Malta rolünüz dikkatimi çekti.
 
 Bu rolde ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor.
 
 Bu yüzden ekip içi iletişimi ve çalışan gelişimini güçlendirme tarafında Konuşarak Öğren'in ekiplere yönelik pratik İngilizce konuşma eğitimi yaklaşımının faydalı olabileceğini düşündüm.
 
-Uygun olursa kısa bir bilgi paylaşmak isterim.",New,LinkedIn,Send connection request,Day 3
-Mehmet Demir,XYZ Yazılım,Talent Acquisition Specialist,https://linkedin.com/in/mehmetdemir,Recruitment and candidate evaluation,Technology / Software,50-200,8,adayların İngilizce iletişim becerilerini değerlendirme,işe alım süreçlerinde İngilizce değerlendirme,"aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor",80,B Lead,"Merhaba Mehmet,
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Şevval Gökcü,UFS Kurumsal Hizmetler,HR and Recruitment Specialist,https://linkedin.com/in/şevval-gökcü-62b84b226,,General Business,50-200,8,adayların İngilizce iletişim becerilerini değerlendirme,işe alım süreçlerinde İngilizce değerlendirme,80,B Lead,New,Recruitment and candidate evaluation,"aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor","Merhaba Şevval,
 
-XYZ Yazılım tarafındaki Talent Acquisition Specialist rolünüz dikkatimi çekti.
+UFS Kurumsal Hizmetler tarafındaki HR and Recruitment Specialist rolünüz dikkatimi çekti.
 
 Bu rolde aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor.
 
 Bu yüzden adayların İngilizce iletişim becerilerini değerlendirme tarafında Konuşarak Öğren'in işe alım süreçlerinde İngilizce değerlendirme yaklaşımının faydalı olabileceğini düşündüm.
 
-Uygun olursa kısa bir bilgi paylaşmak isterim.",New,LinkedIn,Send connection request,Day 3
-Zeynep Kaya,TechNova,People & Culture Manager,https://linkedin.com/in/zeynepkaya,General HR operations,Technology / Software,50-200,7,ekip içi iletişimi ve çalışan gelişimini güçlendirme,ekiplere yönelik pratik İngilizce konuşma eğitimi,çalışan bağlılığı ve gelişim kültürü tarafında pratik iletişim becerileri önemli bir kaldıraç olabiliyor,75,B Lead,"Merhaba Zeynep,
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+İrem Yaşar,Eren Perakende,HR Director,https://linkedin.com/in/irem-yaşar-2822bb9b,,General Business,50-200,9,iş gücü gelişimini stratejik ölçekte yönetme,stratejik İngilizce iletişim programları,95,A Lead,New,Strategic HR and workforce development,"HR liderliği seviyesinde İngilizce gelişimi yalnızca eğitim değil, şirketin uluslararasılaşma kapasitesiyle de ilişkili olabiliyor","Merhaba İrem,
 
-TechNova tarafındaki People & Culture Manager rolünüz dikkatimi çekti.
+Eren Perakende tarafındaki HR Director rolünüz dikkatimi çekti.
 
-Bu rolde çalışan bağlılığı ve gelişim kültürü tarafında pratik iletişim becerileri önemli bir kaldıraç olabiliyor.
+Bu rolde HR liderliği seviyesinde İngilizce gelişimi yalnızca eğitim değil, şirketin uluslararasılaşma kapasitesiyle de ilişkili olabiliyor.
+
+Bu yüzden iş gücü gelişimini stratejik ölçekte yönetme tarafında Konuşarak Öğren'in stratejik İngilizce iletişim programları yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Göktunç Balyemez,Eren Perakende,Human Resources Director,https://linkedin.com/in/goktuncbalyemez,,General Business,50-200,9,iş gücü gelişimini stratejik ölçekte yönetme,stratejik İngilizce iletişim programları,95,A Lead,New,Strategic HR and workforce development,"HR liderliği seviyesinde İngilizce gelişimi yalnızca eğitim değil, şirketin uluslararasılaşma kapasitesiyle de ilişkili olabiliyor","Merhaba Göktunç,
+
+Eren Perakende tarafındaki Human Resources Director rolünüz dikkatimi çekti.
+
+Bu rolde HR liderliği seviyesinde İngilizce gelişimi yalnızca eğitim değil, şirketin uluslararasılaşma kapasitesiyle de ilişkili olabiliyor.
+
+Bu yüzden iş gücü gelişimini stratejik ölçekte yönetme tarafında Konuşarak Öğren'in stratejik İngilizce iletişim programları yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Fuat Topal,Eren Perakende Satış ve Mağazacılık A.Ş.,İnsan Kaynakları Müdürü,https://linkedin.com/in/fuat-topal-732391ab,,Retail,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Fuat,
+
+Eren Perakende Satış ve Mağazacılık A.Ş. tarafındaki İnsan Kaynakları Müdürü rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Gözde İlik,Eren Perakende,Senior Recruitment Specialist,https://linkedin.com/in/gozdeilik,,General Business,50-200,8,adayların İngilizce iletişim becerilerini değerlendirme,işe alım süreçlerinde İngilizce değerlendirme,80,B Lead,New,Recruitment and candidate evaluation,"aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor","Merhaba Gözde,
+
+Eren Perakende tarafındaki Senior Recruitment Specialist rolünüz dikkatimi çekti.
+
+Bu rolde aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor.
+
+Bu yüzden adayların İngilizce iletişim becerilerini değerlendirme tarafında Konuşarak Öğren'in işe alım süreçlerinde İngilizce değerlendirme yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Zeynep M. Erkaya,Lookup,HR Consultant,https://linkedin.com/in/zsert,,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Zeynep,
+
+Lookup tarafındaki HR Consultant rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Merve Şuşut Kurç,Lookup,Human Resources Consultant | Global Talent Partner | IT Recruiter,https://linkedin.com/in/merve-şuşut-kurç-3749a6236,,General Business,50-200,8,adayların İngilizce iletişim becerilerini değerlendirme,işe alım süreçlerinde İngilizce değerlendirme,80,B Lead,New,Recruitment and candidate evaluation,"aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor","Merhaba Merve,
+
+Lookup tarafındaki Human Resources Consultant | Global Talent Partner | IT Recruiter rolünüz dikkatimi çekti.
+
+Bu rolde aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor.
+
+Bu yüzden adayların İngilizce iletişim becerilerini değerlendirme tarafında Konuşarak Öğren'in işe alım süreçlerinde İngilizce değerlendirme yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Duru Erden,Fursa Grup / İstanbul Gıda,Human Resources Assistant Specialist,https://linkedin.com/in/duru-erden-630827263,,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Duru,
+
+Fursa Grup / İstanbul Gıda tarafındaki Human Resources Assistant Specialist rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Mina Şengül,Beşiktaş Belediyesi,HR Business Partner / Recruitment,https://linkedin.com/in/mina-şengül-035121145,,General Business,50-200,8,adayların İngilizce iletişim becerilerini değerlendirme,işe alım süreçlerinde İngilizce değerlendirme,85,A Lead,New,Recruitment and candidate evaluation,"aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor","Merhaba Mina,
+
+Beşiktaş Belediyesi tarafındaki HR Business Partner / Recruitment rolünüz dikkatimi çekti.
+
+Bu rolde aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor.
+
+Bu yüzden adayların İngilizce iletişim becerilerini değerlendirme tarafında Konuşarak Öğren'in işe alım süreçlerinde İngilizce değerlendirme yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Sena Tekin,Yakirox,Human Resources Recruitment Specialist,https://linkedin.com/in/sena-tekin-103440215,,General Business,50-200,8,adayların İngilizce iletişim becerilerini değerlendirme,işe alım süreçlerinde İngilizce değerlendirme,80,B Lead,New,Recruitment and candidate evaluation,"aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor","Merhaba Sena,
+
+Yakirox tarafındaki Human Resources Recruitment Specialist rolünüz dikkatimi çekti.
+
+Bu rolde aday görüşmelerinde İngilizce seviyesini yalnızca CV üzerinden değil, konuşma pratiğiyle de değerlendirme ihtiyacı doğabiliyor.
+
+Bu yüzden adayların İngilizce iletişim becerilerini değerlendirme tarafında Konuşarak Öğren'in işe alım süreçlerinde İngilizce değerlendirme yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Müge Mengüş,BFF Cosmetics,Human Resources Specialist,https://linkedin.com/in/muge-mengus,,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Müge,
+
+BFF Cosmetics tarafındaki Human Resources Specialist rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Şeyda Altuntop,BFF COSMETICS,Human Resources Executive,https://linkedin.com/in/şeyda-altuntop-273169104,seydaist1@hotmail.com,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Şeyda,
+
+BFF COSMETICS tarafındaki Human Resources Executive rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Pelin Araba,Doğuş Oto,HR Professional / Certificate Coach / Executive,https://linkedin.com/in/pelin-araba-2a3995139,,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Pelin,
+
+Doğuş Oto tarafındaki HR Professional / Certificate Coach / Executive rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Tuana Alparslan,Doğuş Oto Paz. ve Tic. A.Ş.,Human Resources Specialist,https://linkedin.com/in/tuana-alparslan-712609198,,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Tuana,
+
+Doğuş Oto Paz. ve Tic. A.Ş. tarafındaki Human Resources Specialist rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Cansu Deniz,Doğuş Oto,Human Resources Specialist,https://linkedin.com/in/cansu-deniz-5a079b19b,,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Cansu,
+
+Doğuş Oto tarafındaki Human Resources Specialist rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Deniz Güler,Doğuş Oto,Senior Human Resources Specialist,https://linkedin.com/in/deniz-güler-1614081b0,gulrdeniz@gmail.com,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,55,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba Deniz,
+
+Doğuş Oto tarafındaki Senior Human Resources Specialist rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Beycan Erbakan,Doğuş Otomotiv,Human Resources Manager,https://linkedin.com/in/beycan-erbakan-6a96b23b,,General Business,50-200,7,ekip içi iletişimi ve çalışan gelişimini güçlendirme,ekiplere yönelik pratik İngilizce konuşma eğitimi,75,B Lead,New,General HR operations,"ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor","Merhaba Beycan,
+
+Doğuş Otomotiv tarafındaki Human Resources Manager rolünüz dikkatimi çekti.
+
+Bu rolde ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor.
 
 Bu yüzden ekip içi iletişimi ve çalışan gelişimini güçlendirme tarafında Konuşarak Öğren'in ekiplere yönelik pratik İngilizce konuşma eğitimi yaklaşımının faydalı olabileceğini düşündüm.
 
-Uygun olursa kısa bir bilgi paylaşmak isterim.",New,LinkedIn,Send connection request,Day 3
-Burak Aydın,CloudSoft,HR Business Partner,https://linkedin.com/in/burakaydin,Cross-functional HR support,Technology / Software,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,"farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor",70,B Lead,"Merhaba Burak,
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Sinan Değirmencioğlu,Doğuş Otomotiv,Human Resources Assistant Manager,https://linkedin.com/in/sinan-değirmencioğlu-0b353b135,,General Business,50-200,7,ekip içi iletişimi ve çalışan gelişimini güçlendirme,ekiplere yönelik pratik İngilizce konuşma eğitimi,75,B Lead,New,General HR operations,"ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor","Merhaba Sinan,
 
-CloudSoft tarafındaki HR Business Partner rolünüz dikkatimi çekti.
+Doğuş Otomotiv tarafındaki Human Resources Assistant Manager rolünüz dikkatimi çekti.
+
+Bu rolde ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden ekip içi iletişimi ve çalışan gelişimini güçlendirme tarafında Konuşarak Öğren'in ekiplere yönelik pratik İngilizce konuşma eğitimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Tuğçe Çıtak,Etstur,Senior HR Business Partner,https://linkedin.com/in/tugcecitak,,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,70,B Lead,New,Cross-functional HR support,"farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor","Merhaba Tuğçe,
+
+Etstur tarafındaki Senior HR Business Partner rolünüz dikkatimi çekti.
 
 Bu rolde farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor.
 
 Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
 
-Uygun olursa kısa bir bilgi paylaşmak isterim.",New,LinkedIn,Send connection request,Day 3
-Elif Şahin,DataWorks,Learning and Development Manager,https://linkedin.com/in/elifsahin,Employee learning and upskilling,Technology / Software,50-200,8,ölçeklenebilir çalışan eğitim programları tasarlama,çalışanlar için sürdürülebilir İngilizce gelişim programları,çalışan eğitimlerinde sürdürülebilirlik ve katılım oranı genelde en kritik iki konu oluyor,90,A Lead,"Merhaba Elif,
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Ekin K.,Etstur,Human Resources Business Partner,https://linkedin.com/in/ekinkutuk,,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,70,B Lead,New,Cross-functional HR support,"farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor","Merhaba Ekin,
 
-DataWorks tarafındaki Learning and Development Manager rolünüz dikkatimi çekti.
+Etstur tarafındaki Human Resources Business Partner rolünüz dikkatimi çekti.
 
-Bu rolde çalışan eğitimlerinde sürdürülebilirlik ve katılım oranı genelde en kritik iki konu oluyor.
+Bu rolde farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor.
 
-Bu yüzden ölçeklenebilir çalışan eğitim programları tasarlama tarafında Konuşarak Öğren'in çalışanlar için sürdürülebilir İngilizce gelişim programları yaklaşımının faydalı olabileceğini düşündüm.
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
 
-Uygun olursa kısa bir bilgi paylaşmak isterim.",New,LinkedIn,Send connection request,Day 3
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+İlker Şengül,Etstur,Senior HR Business Partner,https://linkedin.com/in/ilkersengul,ilkersengul@outlook.com.tr,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,70,B Lead,New,Cross-functional HR support,"farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor","Merhaba İlker,
+
+Etstur tarafındaki Senior HR Business Partner rolünüz dikkatimi çekti.
+
+Bu rolde farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+İrem Aral,RoofStacks,HR Business Partner,https://linkedin.com/in/irem-aral-b6054517a,aral_irem@hotmail.com,General Business,50-200,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,70,B Lead,New,Cross-functional HR support,"farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor","Merhaba İrem,
+
+RoofStacks tarafındaki HR Business Partner rolünüz dikkatimi çekti.
+
+Bu rolde farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Sena Uçar,Şekerbank T.A.Ş.,Human Resources Business Partner,https://linkedin.com/in/sena-uçar-87a830191,,Finance / Fintech,500+,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,75,B Lead,New,Cross-functional HR support,"farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor","Merhaba Sena,
+
+Şekerbank T.A.Ş. tarafındaki Human Resources Business Partner rolünüz dikkatimi çekti.
+
+Bu rolde farklı departmanlarla çalışan HRBP rollerinde İngilizce iletişim, ekipler arası koordinasyonu doğrudan etkileyebiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+İlayda Eraslan,TAG Taurus Group,Junior Human Resources Consultant,https://linkedin.com/in/ilayda-eraslan-612a13210,,General Business,500+,6,çalışan gelişimini destekleme,kurumsal İngilizce iletişim gelişimi,60,C Lead,New,General HR operations,çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor,"Merhaba İlayda,
+
+TAG Taurus Group tarafındaki Junior Human Resources Consultant rolünüz dikkatimi çekti.
+
+Bu rolde çalışanların İngilizce konuşma pratiğini iş akışına entegre etmek HR ekipleri için ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden çalışan gelişimini destekleme tarafında Konuşarak Öğren'in kurumsal İngilizce iletişim gelişimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Arda Sonduk,Kosifler Group,Human Resources Manager,https://linkedin.com/in/arda-sonduk-599486145,,General Business,500+,7,ekip içi iletişimi ve çalışan gelişimini güçlendirme,ekiplere yönelik pratik İngilizce konuşma eğitimi,80,B Lead,New,General HR operations,"ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor","Merhaba Arda,
+
+Kosifler Group tarafındaki Human Resources Manager rolünüz dikkatimi çekti.
+
+Bu rolde ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden ekip içi iletişimi ve çalışan gelişimini güçlendirme tarafında Konuşarak Öğren'in ekiplere yönelik pratik İngilizce konuşma eğitimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
+Pelin Erdin,Kosifler Group,HR Group Manager,https://linkedin.com/in/pelin-erdin-18a84356,,General Business,500+,7,ekip içi iletişimi ve çalışan gelişimini güçlendirme,ekiplere yönelik pratik İngilizce konuşma eğitimi,80,B Lead,New,General HR operations,"ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor","Merhaba Pelin,
+
+Kosifler Group tarafındaki HR Group Manager rolünüz dikkatimi çekti.
+
+Bu rolde ekiplerin günlük iş akışında İngilizceyi aktif kullanabilmesi, klasik eğitimlerden daha ölçülebilir bir gelişim alanı yaratabiliyor.
+
+Bu yüzden ekip içi iletişimi ve çalışan gelişimini güçlendirme tarafında Konuşarak Öğren'in ekiplere yönelik pratik İngilizce konuşma eğitimi yaklaşımının faydalı olabileceğini düşündüm.
+
+Uygun olursa kısa bir bilgi paylaşmak isterim.",LinkedIn,Send connection request,Day 3
