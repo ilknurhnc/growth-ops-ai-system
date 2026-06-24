@@ -227,3 +227,72 @@ Example:
 * Recruitment Specialist → Medium priority
 
 This allows outreach efforts to focus on leads with the highest potential impact.
+
+
+## Automation Workflow (n8n)
+
+The workflow is designed to run automatically whenever a new lead enters the system.
+
+Flow:
+
+Lead Source (Apollo / LinkedIn)
+↓
+Google Sheets
+↓
+Research Agent
+↓
+Enrichment Agent
+↓
+Lead Scoring Agent
+↓
+Outreach Agent
+↓
+CRM Update
+
+Workflow responsibilities:
+
+* Detect new leads
+* Enrich lead information
+* Estimate pain points
+* Score lead quality
+* Generate personalized outreach
+* Update CRM records
+
+This design minimizes manual work while maintaining personalized communication.
+
+## Workflow Diagram
+
+┌─────────────────────┐
+│ Lead Sources        │
+│ LinkedIn / Apollo   │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ Google Sheets CRM   │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ Research Agent      │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ Enrichment Agent    │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ Lead Scoring Agent  │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ Outreach Agent      │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ CRM Update Agent    │
+└─────────────────────┘
